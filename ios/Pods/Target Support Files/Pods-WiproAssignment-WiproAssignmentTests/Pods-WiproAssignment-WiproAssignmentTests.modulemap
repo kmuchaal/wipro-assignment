@@ -1,0 +1,6 @@
+module Pods_WiproAssignment_WiproAssignmentTests {
+  umbrella header "Pods-WiproAssignment-WiproAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
