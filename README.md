@@ -1,2 +1,1 @@
-# wipro-assignment
-wipro assignment
+# WiproAssignment
